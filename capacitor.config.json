@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "popoverTest",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

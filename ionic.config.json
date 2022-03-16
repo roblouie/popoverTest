@@ -1,0 +1,7 @@
+{
+  "name": "popoverTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
